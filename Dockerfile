@@ -16,4 +16,4 @@ VOLUME ["/root/.aws"]
 #Expose directory to write output to
 VOLUME ["/etc/sysconfig/"]
 
-RUN python /etcd-aws-cluster.py
+CMD python /etcd-aws-cluster.py
