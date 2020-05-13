@@ -1,6 +1,7 @@
 # etcd-aws-cluster
 
 This container was **VERY** inspired on [MonsantoCo/etcd-aws-cluster](https://github.com/MonsantoCo/etcd-aws-cluster) to assist in the creation of an etcd (2.x) cluster from an AWS auto scaling group.
+OO
  
 The original container created the cluster based on the scaling group of the running machine, this version implements some extra features:
 
