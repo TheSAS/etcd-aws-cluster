@@ -8,3 +8,5 @@ The original container created the cluster based on the scaling group of the run
 - After the limit configured on `MAX_NUMBER_MEMBERS` the next machines will enter the cluster as proxy;
  
 Please refer to the original repo for instructions on how to use it.
+
+Test
